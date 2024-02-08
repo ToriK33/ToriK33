@@ -1,0 +1,58 @@
+p {}
+#pink {
+  	text-align: center;
+  	color: pink;
+    font-size: 20px;
+}
+#food {
+  	text-align: center;
+    color: mediumseagreen;
+    font-size: 20px;
+}
+#luca {
+  	text-align: center;
+    color: magenta;
+    font-size: 20px;
+}
+#Texas {
+  	text-align: center;
+  	color: grey;
+    font-size: 20px;
+}
+#hobbies {
+  	text-align: center;
+  	color: plum;
+    font-size: 20px;
+}
+#guilty {
+  	text-align: center;
+  	color: navy;
+    font-size: 20px
+}
+#title {
+  	text-align: center;
+  	color: plum;
+    font-size: 100px;
+}
+#romcoms {
+  font-family: Helvetica, Times New Roman
+  border-collapse: collapse;
+  width: 75%;
+}
+
+#romcoms td, #romcoms th {
+  border: 2px solid #ddd;
+  padding: 10px;
+}
+
+#romcoms tr:nth-child(even){background-color: #f2f2f2;}
+
+#romcoms tr:hover {background-color: #ddd;}
+
+#romcoms th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: black;
+  color: pink;
+}
